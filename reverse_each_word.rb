@@ -7,7 +7,6 @@ def reverse_each_word(sentence)
     new_array << x.reverse
 end
 new_array.join(" ")
-binding.pry
 end
 
 
