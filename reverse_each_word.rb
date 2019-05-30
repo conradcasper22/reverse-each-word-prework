@@ -2,7 +2,7 @@ require "pry"
 
 def reverse_each_word(sentence)
   split_str = sentence.split(" ")
-  # binding.pry
+  binding.pry
 end
 
 
