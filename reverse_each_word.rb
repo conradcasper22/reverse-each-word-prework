@@ -1,7 +1,7 @@
 require "pry"
 
 def reverse_each_word(sentence)
-  array = Array.new
+  reversed_array = Array.new
   split_array = sentence.split(",")
   # binding.pry
   reversed_array = split_array.reverse
