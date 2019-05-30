@@ -10,6 +10,7 @@ def reverse_each_word(sentence)
     array << x
   end
   array
+  
   binding.pry
 end
 
