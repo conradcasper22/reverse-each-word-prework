@@ -9,7 +9,7 @@ def reverse_each_word(sentence)
   reversed_array.each do |x|
     array << x
   end
-  array.split
+  array
   binding.pry
 end
 
